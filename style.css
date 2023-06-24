@@ -1,0 +1,19 @@
+*{
+    margin: 5px;
+    padding: 15px;
+}
+header{
+    text-align: center;
+}
+.container h2{
+    text-align: left;
+}
+
+.container img{
+    max-width: 30%;
+    max-height: 30%;
+    display: inline-block;
+}
+.container p{
+    text-align: justify;
+}
